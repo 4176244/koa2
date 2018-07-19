@@ -12,6 +12,9 @@
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "koa":"2.0.0"
+  },
   "bugs": {
     "url": "https://github.com/4176244/koa2/issues"
   },
